@@ -1,0 +1,112 @@
+{
+    "name": "Meridian Swap Default List",
+    "timestamp": "2021-05-06T00:00:00Z",
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+        "Meridian",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "MST",
+            "symbol": "MST",
+            "address": "0x568524DA340579887db50Ecf602Cd1BA8451b243",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/MeridianDollar/brand-assets/master/mst_logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+            "symbol": "WTLOS",
+            "name": "Wrapped TLOS",
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+            "decimals": 18,
+            "tags": []
+        },
+        {
+            "chainId": 40,
+            "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
+            "symbol": "BTC.b",
+            "name": "Bitcoin",
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/BTC.b.png",
+            "decimals": 8,
+            "tags": []
+        },
+        {
+            "chainId": 40,
+            "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+            "decimals": 18,
+            "tags": []
+        },
+        {
+            "chainId": 40,
+            "address": "0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://ipfs.telos.net/ipfs/QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 40,
+            "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
+            "symbol": "USDT",
+            "name": "Tether Stable Coin",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+            "decimals": 6,
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 40,
+            "address": "0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9",
+            "symbol": "USDM",
+            "name": "USDM",
+            "logoURI": "https://raw.githubusercontent.com/MeridianDollar/brand-assets/master/usdm_logo.png",
+            "decimals": 18,
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 40,
+            "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
+            "symbol": "STLOS",
+            "name": "Staked TLOS",
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
+            "decimals": 18,
+            "tags": []
+        },
+        {
+            "chainId": 40,
+            "address": "0xaC45EDe2098bc989Dfe0798B4630872006e24c3f",
+            "symbol": "SLUSH",
+            "name": "Swapsicle Slush Token",
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xaC45EDe2098bc989Dfe0798B4630872006e24c3f/logo.png",
+            "decimals": 18,
+            "tags": []
+        },
+        {
+            "chainId": 40,
+            "address": "0xb99C43d3bce4c8Ad9B95a4A178B04a7391b2a6EB",
+            "symbol": "RF",
+            "name": "Reactor Fusion",
+            "logoURI": "https://raw.githubusercontent.com/MeridianDollar/meridian-swap-token-logo/main/reactor-fusion.png",
+            "decimals": 18,
+            "tags": []
+        }
+    ]
+}
